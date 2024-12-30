@@ -1,0 +1,2 @@
+# PRODIGY_WD_Task01
+I have developed an instructive navigation menu using HTML, CSS and JavaScript as a 1st taskin web development internship.This navigation menu changes colour or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages.I had use HTML to structure the menu,Css to style it, and JavaScript to add interactivity, such as changing the background color or front color of the menu when it is scrolled or when a menu item is  hovered over,
